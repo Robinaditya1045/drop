@@ -9,7 +9,6 @@ Features:
 - Automatic device detection on local networks
 - Easy connection to external devices using a unique code
 - Fast, secure, and private file sharing
-- Fully translated to English
 
 ## Technologies Used
 - React / shadcn / tailwindcss
